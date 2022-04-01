@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "791908602462",
+    "project_id": "jazia-51e09",
+    "storage_bucket": "jazia-51e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791908602462:android:7b4bd1aac4ebe9a7c95acf",
+        "android_client_info": {
+          "package_name": "com.example.jazia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791908602462-16olu8kld81tk6h1g2fm01lqeke27ee1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jazia",
+            "certificate_hash": "5880b24d022e38bd37a48765416a05ba188d75d4"
+          }
+        },
+        {
+          "client_id": "791908602462-maun8j1nt4iq2n5amnroka78u7n389jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUVkByJrtBC_SXTPdyQCffQoxUrnIu1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791908602462-maun8j1nt4iq2n5amnroka78u7n389jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791908602462-bdo1hittb9oeb74rscdbnk913mukp59d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ioshq.jazia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791908602462:android:563d187acc64eda4c95acf",
+        "android_client_info": {
+          "package_name": "com.example.jaziadigitalid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791908602462-oi3t6gk4p8l6r2nabdi9mdnri7o7l20h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaziadigitalid",
+            "certificate_hash": "5880b24d022e38bd37a48765416a05ba188d75d4"
+          }
+        },
+        {
+          "client_id": "791908602462-maun8j1nt4iq2n5amnroka78u7n389jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUVkByJrtBC_SXTPdyQCffQoxUrnIu1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791908602462-maun8j1nt4iq2n5amnroka78u7n389jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791908602462-bdo1hittb9oeb74rscdbnk913mukp59d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ioshq.jazia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791908602462:android:747abb217f01a0ebc95acf",
+        "android_client_info": {
+          "package_name": "com.hq.jazia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791908602462-6lboeu6uq70nqfjbva493mr9ppc26apf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hq.jazia",
+            "certificate_hash": "5880b24d022e38bd37a48765416a05ba188d75d4"
+          }
+        },
+        {
+          "client_id": "791908602462-a1et9rgvssanonh8cd99kl9gqjn5bvrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hq.jazia",
+            "certificate_hash": "e2fb40d7ac110efc83f6fe6b77a331cf2d9a95ac"
+          }
+        },
+        {
+          "client_id": "791908602462-jrm2fi8hs7hek6v8otfbj115mvamfqis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hq.jazia",
+            "certificate_hash": "12c7bb1f6b1558690268f94b478feedcfd0f8d52"
+          }
+        },
+        {
+          "client_id": "791908602462-maun8j1nt4iq2n5amnroka78u7n389jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUUVkByJrtBC_SXTPdyQCffQoxUrnIu1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791908602462-maun8j1nt4iq2n5amnroka78u7n389jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791908602462-bdo1hittb9oeb74rscdbnk913mukp59d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ioshq.jazia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
